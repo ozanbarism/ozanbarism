@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ozanbarism
-- 👀 I’m interested in AI applications in civil engineering
-- 🌱 I’m currently learning CNN and R programming
-- 💞️ I’m looking to collaborate on Python and MATLAB
+- 👀 I’m interested in physics informed ML, RL and MPC.
 - 📫 You can reach me via my email ozanbarismulayim@gmail.com
 
 <!---
